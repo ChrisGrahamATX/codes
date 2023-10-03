@@ -1,8 +1,7 @@
-body {
-    background-color: black;
-    font-family: 'Roboto', sans-serif;
-  }
-h1, h2, h3 {
-    font-family: 'Roboto', sans-serif;
+.image {
+  float: right;
 }
-  
+#about {
+  float: left;
+  padding: 15px;
+}
